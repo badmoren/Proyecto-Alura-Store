@@ -24,15 +24,17 @@ Este ejercicio permite reforzar las habilidades fundamentales para el trabajo co
 
 ## 🧩 Estructura del proyecto
 
+```plaintext
 AluraStoreLatam/
 │
-├── AluraStoreLatam.ipynb # Notebook principal con el análisis completo.
+├── AluraStoreLatam.ipynb        # Notebook principal con el análisis completo.
 │
-└── datos/ # Carpeta que contiene los archivos de datos utilizados en el análisis.
-├── tienda_1.csv
-├── tienda_2.csv
-├── tienda_3.csv
-└── tienda_4.csv
+└── datos/                       # Carpeta que contiene los archivos de datos utilizados en el análisis.
+    ├── tienda_1.csv
+    ├── tienda_2.csv
+    ├── tienda_3.csv
+    └── tienda_4.csv
+```
 
 
 ### Descripción de los componentes
