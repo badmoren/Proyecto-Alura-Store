@@ -71,8 +71,7 @@ Estas visualizaciones se muestran automáticamente durante la ejecución de las 
    Ingresar a [https://colab.research.google.com](https://colab.research.google.com).
 
 2. **Subir el proyecto completo**  
-   - Subir la carpeta comprimida `AluraStoreLatam.zip` o importar el archivo `AluraStoreLatam.ipynb`.  
-   - Asegurarse de que la carpeta `datos/` esté en el mismo directorio que el notebook.  
+   - Importar el archivo `AluraStoreLatam.ipynb`.  
 
 3. **Ejecutar las celdas**  
    - Ejecutar cada celda en orden (Shift + Enter).  
